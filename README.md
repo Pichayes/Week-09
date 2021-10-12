@@ -1,2 +1,4 @@
-# Week-09
-แนะนำการใช้งาน Git
+#include <stdio.h>
+int main ()
+{
+   char yourname[100];
