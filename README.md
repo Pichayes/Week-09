@@ -1,2 +1,5 @@
-# Week-09
-แนะนำการใช้งาน Git
+#include < stdio.h >
+main( )
+{
+        printf ("hello, world\n");
+}
